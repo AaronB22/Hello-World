@@ -1,0 +1,25 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "tpye": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronB22/Hello-World.git"
+  },
+  "keywords": [],
+  "author": "Aaron Bailey",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AaronB22/Hello-World/issues"
+  },
+  "homepage": "https://github.com/AaronB22/Hello-World#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
